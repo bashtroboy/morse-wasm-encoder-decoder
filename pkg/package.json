@@ -1,0 +1,17 @@
+{
+  "name": "morse-wasm",
+  "type": "module",
+  "description": "Morse encode/decode compiled to WebAssembly",
+  "version": "0.1.0",
+  "license": "MIT OR Apache-2.0",
+  "files": [
+    "morse_wasm_bg.wasm",
+    "morse_wasm.js",
+    "morse_wasm.d.ts"
+  ],
+  "main": "morse_wasm.js",
+  "types": "morse_wasm.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
