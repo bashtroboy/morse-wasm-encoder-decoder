@@ -1,6 +1,8 @@
-# morse-wasm
+# morse-wasm-encoder-decoder
 
 International Morse code encoder/decoder, written in Rust and compiled to WebAssembly. Built as a learning vehicle for the Rust → wasm pipeline; intended to be reusable from any web app that needs Morse encoding/decoding without a JS implementation.
+
+https://github.com/user-attachments/assets/8225528c-e676-45f4-92d6-5a0f366321c5
 
 ## Status
 
